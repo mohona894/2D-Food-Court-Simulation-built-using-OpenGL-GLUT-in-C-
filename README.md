@@ -1,7 +1,5 @@
 # 2D-Food-Court-Simulation-built-using-OpenGL-GLUT-in-C-
 
-# Animated Food Court Scene using OpenGL (GLUT)
-
 This project is a **2D animated Food Court Simulation** developed using **C++ and OpenGL (GLUT)**. The scene represents a modern university food court environment with different campus buildings, food stalls, roads, vehicles, pedestrians, trees, and moving clouds. Various animations make the environment look more realistic and interactive.
 
 ## Features
